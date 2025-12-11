@@ -1,0 +1,28 @@
+{
+  "name": "trustless-arbitration",
+  "version": "1.0.0",
+  "description": "Smart contract enforcement layer for trustless multi-agent arbitration",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "test:gas": "REPORT_GAS=true hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blockchain-2025/trustless-arbitration.git"
+  },
+  "homepage": "https://github.com/blockchain-2025/trustless-arbitration/tree/v1.0-SCETMAA",
+  "keywords": [
+    "blockchain",
+    "smart-contracts",
+    "arbitration",
+    "multi-agent",
+    "ethereum"
+  ],
+  "author": "Joss Armstrong",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
