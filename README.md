@@ -64,9 +64,9 @@ MIT
 ## Citation
 
 ```bibtex
-@misc{armstrong2025trustless,
+@misc{anonymous,
   title={Smart Contract Enforcement for Trustless Multi-Agent Arbitration},
-  author={Armstrong, Joss},
-  year={2025}
+  author={anonymous},
+  year={2026}
 }
 ```
